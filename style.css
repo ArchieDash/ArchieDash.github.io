@@ -2,6 +2,34 @@
     width: 180;
     height: 190;
     border-radius: 15px 50px;
+    vertical-align: middle;
+    margin-left: 200px;
+    margin-right: 160px;
+}
+
+.header {
+    display: flex;
+    justify-content: flex-end;
+    align-items:center;
+    position: relative;
+}
+
+.badges {
+    float: right;
+}
+
+.badge_square {
+    width: 120px;
+    height: 120px;
+}
+
+td {
+    padding: 3px;
+}
+
+h1 {
+    font-family: monospace;
+    font-size: 40;
 }
 
 hr {
