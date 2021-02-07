@@ -25,22 +25,9 @@
     padding: 3px;
 }
 
-.badge:hover + .reference {
-    display: block;
-    border: 2px solid black;
-    padding: 4px;
-    color: white;
-    background-color: grey;
-    border-radius: 5px;
-}
-
 .badge_square {
     width: 120px;
     height: 120px;
-}
-
-.reference {
-    display: none;
 }
 
 h1 {
