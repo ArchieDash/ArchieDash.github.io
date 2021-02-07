@@ -16,7 +16,7 @@
 
 .badges {
     float: right;
-    align-items:center;
+    align-items: center;
     display: flex;
     justify-content: flex-end;
 }
